@@ -32,7 +32,7 @@ Consulta las [Características del juego](./Isaacs%20Adventure%20Juego.pdf) para
 
 Consulta las [Instrucciones de Instalación](./Instrucciones-Isaacs%20Adventure.pdf) para más detalles sobre la configuración.  
 
---
+---
 
 ¡Descubre el mundo de Isaac's Adventure y acompaña a Isaac en su épica lucha por la supervivencia!
 
